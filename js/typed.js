@@ -1,0 +1,1 @@
+new Typed("#typed",{strings:[,"lone owns u""],typeSpeed:40,delaySpeed:90,showCursor:!1,loop:!0});
